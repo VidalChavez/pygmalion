@@ -1,2 +1,3 @@
-# pygmalion.zsh-theme
-The zsh theme pygmalion with VirtualEnv support
+# pygmalion
+
+The original pygmalion but now the prompt shows the VirtualEnv name
